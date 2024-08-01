@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Medical certificate based website - MEDIBASE**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker,AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Dhanush-varddhan-k/Dhanush-varddhan-k/issues)**
 
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/dhanush-varddhan-712594249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://dhanush-web.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
